@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kevincode69
+- 👋 Hi, I’m KH
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on coding
